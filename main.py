@@ -5,7 +5,7 @@ print("Infosys Stock Analysis")
 stock=yf.Ticker("INFY.NS")
 data=stock.history(period="5mo")
 
-print(data.head())#Prints 5 rows of past 5 months
+print(data.head())
 
 print("Highest price:",data['High'].max())
 print("Lowest price:", data['Low'].min())
