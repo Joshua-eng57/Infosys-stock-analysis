@@ -64,4 +64,4 @@ Trend analysis using moving averages
 
 Data visualization with matplotlib
 
-✅ Project Status: Completed (Beginner Level)
+✅ Project Status: Completed 
